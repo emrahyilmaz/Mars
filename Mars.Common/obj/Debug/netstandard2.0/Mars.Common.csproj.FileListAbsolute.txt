@@ -1,0 +1,9 @@
+C:\Users\yzlm\source\repos\Mars\Mars.Common\bin\Debug\netstandard2.0\Mars.Common.deps.json
+C:\Users\yzlm\source\repos\Mars\Mars.Common\bin\Debug\netstandard2.0\Mars.Common.dll
+C:\Users\yzlm\source\repos\Mars\Mars.Common\bin\Debug\netstandard2.0\Mars.Common.pdb
+C:\Users\yzlm\source\repos\Mars\Mars.Common\obj\Debug\netstandard2.0\Mars.Common.csprojAssemblyReference.cache
+C:\Users\yzlm\source\repos\Mars\Mars.Common\obj\Debug\netstandard2.0\Mars.Common.csproj.CoreCompileInputs.cache
+C:\Users\yzlm\source\repos\Mars\Mars.Common\obj\Debug\netstandard2.0\Mars.Common.AssemblyInfoInputs.cache
+C:\Users\yzlm\source\repos\Mars\Mars.Common\obj\Debug\netstandard2.0\Mars.Common.AssemblyInfo.cs
+C:\Users\yzlm\source\repos\Mars\Mars.Common\obj\Debug\netstandard2.0\Mars.Common.dll
+C:\Users\yzlm\source\repos\Mars\Mars.Common\obj\Debug\netstandard2.0\Mars.Common.pdb
